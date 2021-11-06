@@ -12,7 +12,7 @@
 В процессе тестирования использовались следующие артефакты:
 * [Задача № 2](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md) 
 
-В качестве тестовых данных использовались данные [источник данных](https://www.freeformatter.com/credit-card-number-generator-validator.html):
+В качестве тестовых данных использовались данные [источник данных 1](https://www.freeformatter.com/credit-card-number-generator-validator.html), [источник данных 2](https://www.myfakeinfo.com/creditcard/visa-credit-card.php):
   Номер карты               Ожидаемый результат
 * 4024007170221716            ок
 * 6011160590719726            ок
@@ -22,6 +22,10 @@
 * 6370228242292882            ок
 * 5452253073451210            ок
 * 6763493723583960            ок
+* 4916311068219371071         ok
+* 3539575016143511843         ok
+* 4040102580729               ok
+* 4310660517807               ok
 * пустое значение             fail
 * 678987                      fail
 * 40240071702217162           fail
