@@ -6,6 +6,9 @@
 
 На тестирование затрачено: 1 час
 
+## В результате тестирования выявлены следующие дефекты:
+ * [Не принимаются 19-значные и 13-значные валидные номера карт](https://github.com/ModestVale/Java_1_2/issues/1)
+
 
 ## Описание процесса тестирования
 
@@ -13,6 +16,7 @@
 * [Задача № 2](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md) 
 
 В качестве тестовых данных использовались данные [источник данных 1](https://www.freeformatter.com/credit-card-number-generator-validator.html), [источник данных 2](https://www.myfakeinfo.com/creditcard/visa-credit-card.php):
+  
   Номер карты               Ожидаемый результат
 * 4024007170221716            ок
 * 6011160590719726            ок
